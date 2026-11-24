@@ -2,6 +2,8 @@
 
 This Power BI report is generated from a data mart built on AWS instance. The data mart is created by ETL pipeline that copies sales data from POS databases in 17 branch stores everyday.
 
+Followings are description on DAX formulas used for creating Year-over-Year Sales trend report.
+
 Year-over-Year Sales Trends – DAX Documentation
 1. Project Overview
 This Power BI visualization compares weekly sales performance across multiple years. It allows users to analyze sales trends, identify seasonal patterns, and compare performance between corresponding weeks of different years.
