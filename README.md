@@ -1,6 +1,6 @@
 # Power_BI_reports_portfolio
 
-This Power BI report is generated from a data mart built on AWS instance. The data mart is created by ETL pipeline that copies sales data from POS databases in 17 branch stores everyday.
+This Power BI report is created for a headquarter office of grocery store chain with 17 stores across the states. The power BI report is attached to a data mart built on AWS instance. The data mart is created by ETL pipeline that copies sales data from POS databases in 17 branch stores everyday.
 
 Followings are description on DAX formulas used for creating Year-over-Year Sales trend report.
 
